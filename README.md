@@ -1,17 +1,17 @@
 <h1 align="center">Hey 👋, I'm Chhavi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chhavipal01&label=Profile%20views&color=0e75b6&style=flat" alt="chhavipal01" /> </p>
 
-- 🔭 I’m currently working on **React and gsap**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📫 How to reach me **chhavipal04@gmail.com**
+🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 😄 Pronouns: [She/Her](She/Her)
+ 📫 How to reach me **chhavipal04@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+ 😄 Pronouns: [She/Her](She/Her)
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
