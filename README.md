@@ -18,12 +18,4 @@
 <a href="https://linkedin.com/in/chhavi-pal78624" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chhavi-pal78624" height="30" width="40" /></a>
 <a href="https://instagram.com/_.chhavviiiii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.chhavviiiii" height="30" width="40" /></a>
 </p>
-### 🏆 GitHub Achievements
 
-<!-- These are just for visual flair using shields.io -->
-<p>
-  <img src="https://img.shields.io/badge/Achievement-Pull%20Shark-blue" />
-  <img src="https://img.shields.io/badge/Achievement-Quickdraw-green" />
-  <img src="https://img.shields.io/badge/Achievement-YOLO-orange" />
-  <img src="https://img.shields.io/badge/Achievement-Starstruck-yellow" />
-</p>
